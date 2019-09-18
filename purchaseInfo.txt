@@ -1,0 +1,90 @@
+ 
+              1. Purchase Recipt      
+===============================
+     Customer Name:      Dipto
+     Phone No.:              3254355556
+     Address:                  dhaka
+     Order:                      Cold
+     Quantity:                 5
+===============================
+     total :                      500 BDT
+ 
+              2. Purchase Recipt      
+===============================
+     Customer Name:      Goyel
+     Phone No.:              365875
+     Address:                  nabisco
+     Order:                      Black
+     Quantity:                 2
+===============================
+     total :                      240 BDT
+ 
+              1. Purchase Recipt      
+===============================
+     Customer Name:      s
+     Phone No.:              d
+     Address:                  d
+     Order:                      Cold
+     Quantity:                 2
+===============================
+     total :                      200 BDT
+ 
+              1. Purchase Recipt      
+===============================
+     Customer Name:      dipto
+     Phone No.:              555555767
+     Address:                  dxgfvg
+     Order:                      Cold
+     Quantity:                 2
+===============================
+     total :                      200 BDT
+ 
+              1. Purchase Recipt      
+===============================
+     Customer Name:      rtdrt
+     Phone No.:              dgdgf
+     Address:                  fdggdf
+     Order:                      Cold
+     Quantity:                 1
+===============================
+     total :                      100 BDT
+ 
+              1. Purchase Recipt      
+===============================
+     Customer Name:      ghgh
+     Phone No.:              ghfgvhfghf
+     Address:                  hgf
+     Order:                      Cold
+     Quantity:                 5
+===============================
+     total :                      500 BDT
+ 
+              1. Purchase Recipt      
+===============================
+     Customer Name:      dfd
+     Phone No.:              gdfg
+     Address:                  fgdfg
+     Order:                      Hot
+     Quantity:                 5
+===============================
+     total :                      450 BDT
+ 
+              1. Purchase Recipt      
+===============================
+     Customer Name:      dipto
+     Phone No.:              74239594
+     Address:                  dfshsd
+     Order:                      Hot
+     Quantity:                 8
+===============================
+     total :                      720 BDT
+ 
+              2. Purchase Recipt      
+===============================
+     Customer Name:      dfdsds
+     Phone No.:              54432534
+     Address:                  fdsxgxd
+     Order:                      Cold
+     Quantity:                 4
+===============================
+     total :                      400 BDT
